@@ -1,0 +1,3 @@
+El que menos me gustó fue PUG.
+El que más me gustó fue Handlebars, porque se siente fácil de encapsular el código y se siente mantenible.
+La forma de manejar el código es más ordenada.
